@@ -1,0 +1,9 @@
+ros-hydro-orientus-sdk-c (0.0.1-0raring) raring; urgency=high
+
+  * Added acceleration packet decoder
+  * initial commit of the Orientus SDK from version 1.1
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Sat, 01 Nov 2014 04:00:00 -0000
+
+
