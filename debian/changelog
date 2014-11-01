@@ -1,0 +1,8 @@
+ros-hydro-orientus-driver (0.0.1-0precise) precise; urgency=high
+
+  * Inital version of orientus node
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Sat, 01 Nov 2014 04:00:00 -0000
+
+
