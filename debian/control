@@ -1,0 +1,12 @@
+Source: ros-hydro-orientus-driver
+Section: misc
+Priority: extra
+Maintainer: Mitchell Wills <mwills@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-diagnostic-updater, ros-hydro-geometry-msgs, ros-hydro-orientus-sdk-c, ros-hydro-roscpp, ros-hydro-sensor-msgs
+Homepage: http://wiki.ros.org/orientus_driver
+Standards-Version: 3.9.2
+
+Package: ros-hydro-orientus-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-diagnostic-updater, ros-hydro-geometry-msgs, ros-hydro-orientus-sdk-c, ros-hydro-roscpp, ros-hydro-sensor-msgs
+Description: Driver for Orientus IMU
