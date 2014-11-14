@@ -1,0 +1,32 @@
+ros-hydro-orientus-driver (0.0.4-0quantal) quantal; urgency=high
+
+  * Updated author and website
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Fri, 14 Nov 2014 05:00:00 -0000
+
+ros-hydro-orientus-driver (0.0.3-0quantal) quantal; urgency=high
+
+  * Added website, issue tracker, and repository to package.xml
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Mon, 03 Nov 2014 05:00:00 -0000
+
+ros-hydro-orientus-driver (0.0.2-0quantal) quantal; urgency=high
+
+  * Added device information
+    Added ROS error when an exception is thrown
+  * Added raw, temperature and magnetic outputs
+  * Fixed include directory name and install
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Sun, 02 Nov 2014 04:00:00 -0000
+
+ros-hydro-orientus-driver (0.0.1-0quantal) quantal; urgency=high
+
+  * Inital version of orientus node
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Sat, 01 Nov 2014 04:00:00 -0000
+
+
