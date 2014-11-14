@@ -1,0 +1,12 @@
+Source: ros-indigo-orientus-sdk-c
+Section: misc
+Priority: extra
+Maintainer: Mitchell Wills <mwills@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://www.advancednavigation.com.au/product/orientus#software
+Standards-Version: 3.9.2
+
+Package: ros-indigo-orientus-sdk-c
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: The Orientus C SDK
