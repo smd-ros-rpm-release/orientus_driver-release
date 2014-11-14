@@ -1,4 +1,5 @@
-orientus_driver  [![Build Status](https://api.travis-ci.org/RIVeR-Lab/orientus_driver.png)](https://travis-ci.org/RIVeR-Lab/orientus_driver)
+orientus_driver
 =============
 
-Driver for the orientus imu
+This is a catkin wrapped version of the Orientus C SDK V1.1
+Originally found here: http://www.advancednavigation.com.au/product/orientus#software
