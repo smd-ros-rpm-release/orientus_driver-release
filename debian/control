@@ -1,0 +1,12 @@
+Source: ros-indigo-orientus-driver
+Section: misc
+Priority: extra
+Maintainer: Mitchell Wills <mwills@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-diagnostic-updater, ros-indigo-geometry-msgs, ros-indigo-orientus-sdk-c, ros-indigo-roscpp, ros-indigo-sensor-msgs
+Homepage: http://wiki.ros.org/orientus_driver
+Standards-Version: 3.9.2
+
+Package: ros-indigo-orientus-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-diagnostic-updater, ros-indigo-geometry-msgs, ros-indigo-orientus-sdk-c, ros-indigo-roscpp, ros-indigo-sensor-msgs
+Description: Driver for Orientus IMU

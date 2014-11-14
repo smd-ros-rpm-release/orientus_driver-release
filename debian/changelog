@@ -1,0 +1,32 @@
+ros-indigo-orientus-driver (0.0.4-0saucy) saucy; urgency=high
+
+  * Updated author and website
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Fri, 14 Nov 2014 05:00:00 -0000
+
+ros-indigo-orientus-driver (0.0.3-0saucy) saucy; urgency=high
+
+  * Added website, issue tracker, and repository to package.xml
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Mon, 03 Nov 2014 05:00:00 -0000
+
+ros-indigo-orientus-driver (0.0.2-0saucy) saucy; urgency=high
+
+  * Added device information
+    Added ROS error when an exception is thrown
+  * Added raw, temperature and magnetic outputs
+  * Fixed include directory name and install
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Sun, 02 Nov 2014 04:00:00 -0000
+
+ros-indigo-orientus-driver (0.0.1-0saucy) saucy; urgency=high
+
+  * Inital version of orientus node
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Sat, 01 Nov 2014 04:00:00 -0000
+
+
